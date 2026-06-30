@@ -317,7 +317,7 @@ This project provided practical experience in:
 
 # Author
 
-**Your Name**
+**Aditya Saha**
 
 Data Analytics and Artificial Intelligence Student
 
