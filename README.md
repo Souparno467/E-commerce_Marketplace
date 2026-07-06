@@ -329,6 +329,10 @@ Dataset provided by **Olist** through **Kaggle**.
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+Drive Link
+
+https://drive.google.com/drive/folders/1S8SwzdmSPnb9htOAl2MziAvFNBGdBZCo?usp=sharing
+
 ---
 
 ## License
