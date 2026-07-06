@@ -317,7 +317,7 @@ This project provided practical experience in:
 
 # Author
 
-**Aditya Saha**
+**Aditya Saha & Souparno Goswami**
 
 Data Analytics and Artificial Intelligence Student
 
@@ -332,6 +332,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 Drive Link
 
 https://drive.google.com/drive/folders/1S8SwzdmSPnb9htOAl2MziAvFNBGdBZCo?usp=sharing
+
 
 ---
 
